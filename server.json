@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/7timer",
+  "title": "7timer",
+  "description": "7Timer! MCP.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/7timer",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-7timer",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/7timer/mcp"
+    }
+  ]
+}
