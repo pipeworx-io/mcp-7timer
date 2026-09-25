@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-7timer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "7Timer! MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ad078b9e1f53f122e97c8c5a35f532f9f1ab6191c18fc39b33b102bfb6bbf507",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-7670154d380251c7d9b8a2fa65f75770e0562ddc4e3a90025850822913c53257",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
